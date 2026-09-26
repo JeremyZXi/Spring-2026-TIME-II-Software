@@ -16,7 +16,12 @@ To edit or make this file, we recommend using VS Code's PlatformIO Extension to 
 https://platformio.org/
 
 ----------------------------------------------------------------
-TODO UPDATED (4/30/2026)
+TODO UPDATED 
+（9/17/2026）
+1. Go through the code, structure and their function with members.
+2. Currently with a flash overflow. Will try spending the 1st month fixing it.
+
+(4/30/2026)
 1. Continue reading code until all functions can be undrestood.
 2. Create a README for all .cpp files for the new-comers in the future
 3. figure out the library errors on my local computer
