@@ -8,7 +8,7 @@ STACMOTORCONTROL is all code related to operating our Clinostat.
 STACSERVOCONTROL is test code related to tuning and testing our servos.
 STACSDCONTROL is test code related to making test writes to an SD Card.
 STACHEATPADCONTROL is test code related to testing the mosfet and heatpads.
-diagram.png is am image of what the electrical component will look like. R_fixed is 3300k ohms
+diagram.png is an image of what the electrical component will look like. R_fixed is 3300k ohms
 
 For the people onsite, both ground rails are connected together and the negative pins on all external batteries should go to ground. do NOT connect the power rails together, or put the 4.8V nano battery in either power rail. Connect that directly to the Vin rail. Wires will have tags as to what goes where. See the Google Doc I shared regarding prelaunch setup for more information regarding how/when to give power to the payload.
 
